@@ -1,0 +1,30 @@
+{
+  "name": "bno055-compass",
+  "version": "1.0",
+  "title": "BNO055-compass",
+  "description": "Observe x position from IMU",
+  "tags": [
+    {
+      "label": "arduino",
+      "type": "platform"
+    },
+    {
+      "label": "redbearlabs",
+      "type": "vendor"
+    },
+    {
+      "label": "ble",
+      "type": "comm"
+    }
+  ],
+  "libraries": [
+    {
+      "name": "jquery",
+      "version": "2.1.1"
+    }
+  ],
+  "index-file": "index.html",
+  "uuid": "471e4df3-2937-4407-af44-ee7b055b36af",
+  "icon": "app-icon.png",
+  "doc-url": "https://baardl.io/imu/compass"
+}
